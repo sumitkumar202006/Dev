@@ -27,5 +27,5 @@
 
 
 console.log(Math.random());   // ye 0 se 1 ke beech me random number generate karta hai, 0 aur 1 ko include nahi karta hai, ye decimal number return karta hai.
-console.log(Math.floor(3.2));   // ye number ko floor kar deta hai, jisse hum integer value milti hai.
-console.log(Math.ceil(3.2));
+console.log(Math.floor(3.2));   // ye number ko floor kar deta hai, jisse hum integer value milti hai, Or LIF (Lesser Integer Function)
+console.log(Math.ceil(3.2));    // ye number ko ceil kar deta hai, jisse hum integer value milti hai, Or GIF(Greater Integer Function)
